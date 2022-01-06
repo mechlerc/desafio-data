@@ -8,6 +8,7 @@ pandas = "*"
 nycflights13 = "*"
 bokeh = "*"
 fpdf = "*"
+selenium = "*"
 
 [dev-packages]
 ipykernel = "*"
