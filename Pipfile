@@ -9,6 +9,9 @@ nycflights13 = "*"
 bokeh = "*"
 fpdf = "*"
 selenium = "*"
+matplotlib = "*"
+dataframe-image = "*"
+openpyxl = "*"
 
 [dev-packages]
 ipykernel = "*"
